@@ -8,7 +8,7 @@
     "text": "Milos Resimic"
   },
   "text": {
-    "more": "I scraped tweets that contain the handle of selected Serbian politicians (10,000 for each) and constructed a network that links a Tweeter user with a politician if their tweets contain a handle of one of selected politicians. The resulting network has 6,606 nodes and 11,834 edges. The network is polarized into two main communities and it suggests that each politician has a stable community, but that some of them have a lot of overlaping users who mention them in tweets. For example, Bosko Obradovic, Aleksandar Vucic and Dragan Djilas tend to be mentioned in same tweets often or by the same users.",
+    "more": "I scraped tweets that contain the handle of selected Serbian politicians (10,000 for each) and constructed a network that links a Tweeter user with a politician if their tweets contain a handle of one of selected politicians. The resulting network has 6,606 nodes and 11,834 edges. The network is polarized into two main communities and it suggests that each politician has a stable community, but that some of them have a lot of overlaping users who mention them in their tweets. For example, Bosko Obradovic, Aleksandar Vucic and Dragan Djilas often tend to be mentioned either in same tweets or by the same users.",
     "intro": "",
     "title": "Politicians' mentions, polarized communities"
   },
